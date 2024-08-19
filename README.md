@@ -3,6 +3,7 @@
 🍰 **Graphic Designer & Web Developer**
 
 I'm a creative mind with a passion for **graphic design** and **web development**. Always curious and learning —especially when it comes to AI and coding. 
+
 ---
 
 𓍢ִ໋🎧 **Tools & Tech I Love**  
@@ -25,6 +26,7 @@ I love combining my skills in graphic design and web development to create visua
 **Check it out here: [Savor's Coffee](https://savors.vercel.app/)**  
 ✩ **Follow us on Instagram:** [savorscoffeemza](https://www.instagram.com/savorscoffeemza/)  
 ✩ **Contact:** [savorscoffeemza@gmail.com](mailto:savorscoffeemza@gmail.com)
+
 ---
 
 ## Let's Connect!
