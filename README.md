@@ -1,4 +1,4 @@
-# Hey there, I'm Joss! ✿◠‿◠
+# Hey there, I'm Joss! ＼_ヽ(´> , <｀)
 
 🍰 **Graphic Designer & Web Developer**
 
