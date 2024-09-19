@@ -2,12 +2,14 @@
 
 <div style="overflow: hidden;">
   <div style="float: left; width: calc(100% - 120px);">
-    🍰 <b>Aspiring Full-Stack Developer & Graphic Designer</b>
+    🍰 <b>Aspiring Full-Stack Developer & Graphic Designer</b> <br>
     I'm a creative mind with a passion for <b>graphic design</b> and <b>web development</b>. Always curious and learning —especially when it comes to AI and coding.
+    <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="float: right; width: 100px; height: auto; margin-left: 10px;">
   </div>
-  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="float: right; width: 100px; height: auto; margin-left: 10px;">
 </div>
+
 ---
+
 <div style="overflow: hidden;">
   <div style="float: left; width: calc(100% - 120px);">
     𓍢ִ໋🎧 <b>Tools & tech I love</b> 
@@ -18,8 +20,8 @@
       <li>MySQL, Visual Studio Code</li>
       <li>Microsoft Excel and Office</li>
     </ul>
+    <img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png' style="float: right; width: 150px; height: auto; margin-left: 10px;">
   </div>
-  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png' style="float: right; width: 150px; height: auto; margin-left: 10px;">
 </div>
 
 ---
