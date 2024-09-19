@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div>
     🍰 <b>Aspiring Full-Stack Developer & Graphic Designer</b> <br><br>
-    <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="width: 100px; height: auto; margin: 15px;"> <br>
+    <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="width: 100px; height: auto; margin: 15px;"> <br><br>
     I'm a creative mind with a passion for <b>graphic design</b> and <b>web development</b>. Always curious and learning —especially when it comes to AI and coding.
   </div>
 </div>
@@ -20,7 +20,7 @@
       <li>MySQL, Visual Studio Code</li>
       <li>Microsoft Excel and Office</li>
     </ul>
-      <img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png' style="width: 150px; height: auto; margin: 15px;">
+      <img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png' style="width: 180px; height: auto; margin: 15px;">
   </div>
 </div>
 
