@@ -15,7 +15,7 @@ Here are some of the tools and technologies I work with:
 - MySQL, Visual Studio Code
 - Microsoft Excel & Office
 
-<img href='https://github.com/jossmarsala/jossmarsala/blob/main/me.png'></img>
+<img href='[https://github.com/jossmarsala/jossmarsala/blob/main/me.png](https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png?raw=true)'></img>
 
 ---
 
