@@ -2,8 +2,8 @@
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div>
-    🍰 <b>Aspiring Full-Stack Developer & Graphic Designer</b> <br>
-    <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="width: 100px; height: auto; margin: 15px;">
+    🍰 <b>Aspiring Full-Stack Developer & Graphic Designer</b> <br><br>
+    <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="width: 100px; height: auto; margin: 15px;"> <br>
     I'm a creative mind with a passion for <b>graphic design</b> and <b>web development</b>. Always curious and learning —especially when it comes to AI and coding.
   </div>
 </div>
