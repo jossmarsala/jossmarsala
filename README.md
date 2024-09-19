@@ -1,9 +1,9 @@
 # Hey there, I'm Joss! ＼_ヽ(´> ‿ <｀)
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="width: 100px; height: auto; margin-right: 10px;">
   <div>
     🍰 <b>Aspiring Full-Stack Developer & Graphic Designer</b> <br>
+    <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="width: 100px; height: auto; margin: 15px;">
     I'm a creative mind with a passion for <b>graphic design</b> and <b>web development</b>. Always curious and learning —especially when it comes to AI and coding.
   </div>
 </div>
@@ -11,7 +11,6 @@
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png' style="width: 150px; height: auto; margin-right: 10px;">
   <div>
     𓍢ִ໋🎧 <b>Tools & tech I love</b> <br>
     Here are some of the tools and technologies I work with:
@@ -21,6 +20,7 @@
       <li>MySQL, Visual Studio Code</li>
       <li>Microsoft Excel and Office</li>
     </ul>
+      <img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png' style="width: 150px; height: auto; margin: 15px;">
   </div>
 </div>
 
