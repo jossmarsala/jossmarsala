@@ -1,8 +1,8 @@
 # Hey there, I'm Joss! ＼_ヽ(´> ‿ <｀)
 
-<div style="overflow: hidden;">
-  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="float: left; width: 100px; height: auto; margin-right: 10px;">
-  <div style="float: left; width: calc(100% - 120px);">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="width: 100px; height: auto; margin-right: 10px;">
+  <div>
     🍰 <b>Aspiring Full-Stack Developer & Graphic Designer</b> <br>
     I'm a creative mind with a passion for <b>graphic design</b> and <b>web development</b>. Always curious and learning —especially when it comes to AI and coding.
   </div>
@@ -10,9 +10,9 @@
 
 ---
 
-<div style="overflow: hidden;">
-  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png' style="float: left; width: 150px; height: auto; margin-right: 10px;">
-  <div style="float: left; width: calc(100% - 160px);">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png' style="width: 150px; height: auto; margin-right: 10px;">
+  <div>
     𓍢ִ໋🎧 <b>Tools & tech I love</b> <br>
     Here are some of the tools and technologies I work with:
     <ul>
