@@ -3,6 +3,7 @@
 🍰 **Aspiring Full-Stack Developer & Graphic Designer**
 
 I'm a creative mind with a passion for **graphic design** and **web development**. Always curious and learning —especially when it comes to AI and coding. 
+<img href='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png'></img>
 
 ---
 
@@ -13,6 +14,8 @@ Here are some of the tools and technologies I work with:
 - HTML5, CSS3,  Bootstrap JavaScript, Python  
 - MySQL, Visual Studio Code
 - Microsoft Excel & Office
+
+<img href='https://github.com/jossmarsala/jossmarsala/blob/main/me.png'></img>
 
 ---
 
