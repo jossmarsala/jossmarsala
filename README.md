@@ -9,10 +9,10 @@ I'm a creative mind with a passion for **graphic design** and **web development*
 𓍢ִ໋🎧 **Tools & tech I love**  
 Here are some of the tools and technologies I work with:
 
-- Adobe Illustrator, Photoshop, InDesign  
-- HTML5, CSS3, Python  
-- MySQL, AutoCAD, Visual Studio  
-- Microsoft Excel
+- Adobe Illustrator, Photoshop, InDesign, Adobe XD, AutoCAD
+- HTML5, CSS3, JavaScript, Python  
+- MySQL, Visual Studio Code
+- Microsoft Excel & Office
 
 ---
 
