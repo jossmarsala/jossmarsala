@@ -10,7 +10,7 @@ I'm a creative mind with a passion for **graphic design** and **web development*
 Here are some of the tools and technologies I work with:
 
 - Adobe Illustrator, Photoshop, InDesign, Adobe XD, AutoCAD
-- HTML5, CSS3, JavaScript, Python  
+- HTML5, CSS3,  Bootstrap JavaScript, Python  
 - MySQL, Visual Studio Code
 - Microsoft Excel & Office
 
