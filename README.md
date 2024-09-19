@@ -1,22 +1,25 @@
 # Hey there, I'm Joss! ＼_ヽ(´> ‿ <｀)
 
-🍰 **Aspiring Full-Stack Developer & Graphic Designer**
-
-I'm a creative mind with a passion for **graphic design** and **web development**. Always curious and learning —especially when it comes to AI and coding. 
-<img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png'></img>
-
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 10px;">
+    🍰 **Aspiring Full-Stack Developer & Graphic Designer**
+  </div>
+  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="width: 100px; height: auto;">
+</div>
 ---
-
-𓍢ִ໋🎧 **Tools & tech I love**  
-Here are some of the tools and technologies I work with:
-
-- Adobe Illustrator, Photoshop, InDesign, Adobe XD, AutoCAD
-- HTML5, CSS3,  Bootstrap JavaScript, Python  
-- MySQL, Visual Studio Code
-- Microsoft Excel & Office
-
-<img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png'></img>
-
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 10px;">
+    𓍢ִ໋🎧 **Tools & tech I love**  
+    Here are some of the tools and technologies I work with:
+    <ul>
+      <li>Adobe Illustrator, Photoshop, InDesign, Adobe XD, AutoCAD</li>
+      <li>HTML5, CSS3, Bootstrap, JavaScript, Python</li>
+      <li>MySQL, Visual Studio Code</li>
+      <li>Microsoft Excel & Office</li>
+    </ul>
+  </div>
+  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png' style="width: 100px; height: auto;">
+</div>
 ---
 
 𓍢ִ໋📖 **Always learning**  
