@@ -1,25 +1,27 @@
 # Hey there, I'm Joss! ＼_ヽ(´> ‿ <｀)
 
-<div style="display: flex; align-items: center;">
-  <div style="margin-right: 10px;">
-    🍰 **Aspiring Full-Stack Developer & Graphic Designer**
+<div style="overflow: hidden;">
+  <div style="float: left; width: calc(100% - 120px);">
+    🍰 <b>Aspiring Full-Stack Developer & Graphic Designer</b>
+    I'm a creative mind with a passion for <b>graphic design</b> and <b>web development</b>. Always curious and learning —especially when it comes to AI and coding.
   </div>
-  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="width: 100px; height: auto;">
+  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/me.png' style="float: right; width: 100px; height: auto; margin-left: 10px;">
 </div>
 ---
-<div style="display: flex; align-items: center;">
-  <div style="margin-right: 10px;">
-    𓍢ִ໋🎧 **Tools & tech I love**  
+<div style="overflow: hidden;">
+  <div style="float: left; width: calc(100% - 120px);">
+    𓍢ִ໋🎧 <b>Tools & tech I love</b> 
     Here are some of the tools and technologies I work with:
     <ul>
       <li>Adobe Illustrator, Photoshop, InDesign, Adobe XD, AutoCAD</li>
       <li>HTML5, CSS3, Bootstrap, JavaScript, Python</li>
       <li>MySQL, Visual Studio Code</li>
-      <li>Microsoft Excel & Office</li>
+      <li>Microsoft Excel and Office</li>
     </ul>
   </div>
-  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png' style="width: 100px; height: auto;">
+  <img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png' style="float: right; width: 150px; height: auto; margin-left: 10px;">
 </div>
+
 ---
 
 𓍢ִ໋📖 **Always learning**  
