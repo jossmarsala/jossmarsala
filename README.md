@@ -1,6 +1,6 @@
 # Hey there, I'm Joss! ＼_ヽ(´> ‿ <｀)
 
-🍰 **Graphic Designer & Web Developer**
+🍰 **Aspiring Full-Stack Developer & Graphic Designer**
 
 I'm a creative mind with a passion for **graphic design** and **web development**. Always curious and learning —especially when it comes to AI and coding. 
 
