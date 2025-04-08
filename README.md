@@ -1,4 +1,4 @@
-# Hey there, I'm Joss! ＼_ヽ(´> ‿ <｀)
+# Hi, I'm Joss! ＼_ヽ(´> ‿ <｀)
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div>
