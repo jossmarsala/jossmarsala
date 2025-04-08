@@ -17,8 +17,9 @@
     <ul>
       <li>Adobe Illustrator, Photoshop, InDesign, Adobe XD, AutoCAD</li>
       <li>HTML5, CSS3, Bootstrap, JavaScript, Python</li>
-      <li>MySQL, Visual Studio Code</li>
-      <li>Microsoft Excel and Office</li>
+      <li>Data bases with MySQL</li>
+      <li>Visual Studio Code</li>
+      <li>Microsoft Excel and Office Suite</li>
     </ul>
       <img src='https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png' style="width: 180px; height: auto; margin: 15px;">
   </div>
