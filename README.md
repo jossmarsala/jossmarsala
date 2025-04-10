@@ -3,6 +3,7 @@
 <img src="https://github.com/jossmarsala/jossmarsala/blob/main/me.png" width="120" align="right" style="border-radius: 12px;" />
 
 🍰 **Aspiring Full-Stack Developer & Graphic Designer**  
+
 I'm a software development student with a passion for **graphic design**. Always curious and learning — especially when it comes to **AI** and **cibersecurity**.
 
 ---
