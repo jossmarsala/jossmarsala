@@ -54,5 +54,5 @@ Would love to hear from you 💌
 ---
 
 <p align="center">
-  Made with coffee, and lots of curiosity ✨
+  Made with love, coffee, and lots of curiosity ✨
 </p>
