@@ -10,9 +10,11 @@ I'm a **software development student** with a strong passion for **graphic desig
 
 ## 💾 Tools & Technologies I Love
 
-<img src="https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png" width="180" align="" />
+<table>
+  <tr>
+    <td>
 
-𓍢ִ໋🎧 These are the tools I enjoy working with:
+𓍢ִ໋🎧 **These are the tools I enjoy working with:**
 
 - Adobe Illustrator, Photoshop, InDesign, XD  
 - AutoCAD  
@@ -20,6 +22,13 @@ I'm a **software development student** with a strong passion for **graphic desig
 - MySQL databases  
 - Visual Studio Code  
 - Excel & Microsoft Office Suite  
+
+    </td>
+    <td align="right">
+      <img src="https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png" width="180" />
+    </td>
+  </tr>
+</table>
 
 ---
 
