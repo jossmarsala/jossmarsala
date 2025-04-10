@@ -10,29 +10,28 @@ I'm a **software development student** with a strong passion for **graphic desig
 
 ---
 
-## 🛠️ Tools & Technologies I Love
+## 💾 Tools & Technologies I Love
 
 <img src="https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png" width="180" align="right" />
 
-𓍢ִ໋🎧 From design to code, these are the tools I enjoy working with:
+𓍢ִ໋🎧 These are the tools I enjoy working with:
 
-- 🎨 Adobe Illustrator, Photoshop, InDesign, XD  
-- 🖥️ AutoCAD  
-- 💻 HTML5, CSS3, Bootstrap, JavaScript, Python  
-- 🧠 MySQL databases  
-- 🧩 Visual Studio Code  
-- 📊 Excel & Microsoft Office Suite  
+- Adobe Illustrator, Photoshop, InDesign, XD  
+- AutoCAD  
+- HTML5, CSS3, Bootstrap, JavaScript, Python  
+- MySQL databases  
+- Visual Studio Code  
+- Excel & Microsoft Office Suite  
 
 ---
 
 ## 🌸 Projects I'm Proud Of
 
-I love combining my skills in **design + development** to craft beautiful and functional digital experiences.
+I love combining my skills in **design + development** to craft both pretty and functional digital experiences.
 
-🎯 **Featured Project:**  
-[Savor's Coffee ☕️](https://savors.vercel.app/) — A curated platform for coffee lovers to explore new spots and experiences.
+**Featured Project:**  
+[Savor's Coffee](https://savors.vercel.app/) — A curated platform for coffee lovers to explore new spots and experiences.
 
-➕ [Follow on Instagram](https://www.instagram.com/savorscoffeemza/)  
 📬 [savorscoffeemza@gmail.com](mailto:savorscoffeemza@gmail.com)
 
 ---
@@ -41,9 +40,9 @@ I love combining my skills in **design + development** to craft beautiful and fu
 
 Would love to hear from you 💌
 
-- 📧 **Email:** [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)  
-- 💼 **LinkedIn:** [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)  
-- 🧠 **GitHub:** [@jossmarsala](https://github.com/jossmarsala)
+- **Email:** [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)  
+- **LinkedIn:** [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)  
+- **GitHub:** [@jossmarsala](https://github.com/jossmarsala)
 
 ---
 
