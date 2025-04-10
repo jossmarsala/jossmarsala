@@ -23,13 +23,6 @@ I'm a software development student with a passion for **graphic design**. Always
 
 ---
 
-## 📚 Always Learning
-
-I'm currently expanding my knowledge with a **Cybersecurity course by Google**.  
-Learning new things keeps me motivated and excited about what’s next ✨
-
----
-
 ## 🌸 Projects I'm Proud Of
 
 I love combining my skills in **design + development** to craft beautiful and functional digital experiences.
@@ -53,5 +46,5 @@ Would love to hear from you 💌
 ---
 
 <p align="center">
-  Made with coffee, � and lots of curiosity ✨
+  Made with coffee, and lots of curiosity ✨
 </p>
