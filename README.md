@@ -4,7 +4,7 @@
 
 🍰 **Aspiring Full-Stack Developer & Graphic Designer**  
 
-I'm a software development student with a passion for **graphic design**. Always curious and learning — especially when it comes to **AI** and **cibersecurity**. One of my most significant achievements was being part of the winning team at the 2024 National Informatic Olympics, where we obtained 2nd place.
+I'm a **software development student** with a strong passion for **graphic design**, driven by curiosity and a constant desire to learn — especially in areas like AI and cybersecurity. One of my proudest accomplishments was being part of the winning team at the 2024 National Informatics Olympics, where we secured 2nd place. If you're working on something exciting or looking for a creative and committed collaborator, I’d love to connect!
 
 
 
