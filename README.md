@@ -11,7 +11,7 @@ I'm a **software development student** with a strong passion for **graphic desig
 ## 💾 Tools & Technologies I Love
 
 <table style="border: none; border-collapse: collapse;">
-  <tr>
+  <tr style="border: none !important;">
     <td>
 
 𓍢ִ໋🎧 **These are the tools I enjoy working with:**
