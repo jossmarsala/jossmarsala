@@ -10,7 +10,7 @@ I'm a **software development student** with a strong passion for **graphic desig
 
 ## 💾 Tools & Technologies I Love
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none !important; border-collapse: collapse !important;">
   <tr style="border: none !important;">
     <td>
 
