@@ -2,13 +2,13 @@
 
 <img src="https://github.com/jossmarsala/jossmarsala/blob/main/me.png" width="90" align="left" margin-bottom=10px; />
 
-### 🍰 **Aspiring Full-Stack Developer & Graphic Designer**  
+### 🍰 **Aspiring full-stack developer & graphic designer**  
 
 I'm a **software development student** with a strong passion for **graphic design**, driven by curiosity and a constant desire to learn — especially in areas like AI and cybersecurity. One of my proudest accomplishments was being part of the winning team at the 2024 National Informatics Olympics, where we secured 2nd place. If you're working on something exciting or looking for a creative and committed collaborator, I’d love to connect!
 
 ---
 
-## 💾 Tools & Technologies I Love
+## 💾 Tools & technologies I love
 
 𓍢ִ໋🎧 These are the tools I enjoy working with:
 
@@ -24,7 +24,7 @@ I'm a **software development student** with a strong passion for **graphic desig
 | Technical design | ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?logo=autodesk&logoColor=white) |
 ---
 
-## 🌸 Projects I'm Proud Of
+## 🌸 Projects I'm proud of
 
 I love combining my skills in **design + development** to craft both pretty and functional digital experiences. I'm currently working on [Vitalia Selfcare](https://savors.vercel.app/) — A wellness platform that connects you with personalized plans made to fit your life.
 
@@ -32,7 +32,7 @@ I love combining my skills in **design + development** to craft both pretty and 
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's connect!
 
 Would love to hear from you 💌
 
