@@ -34,7 +34,7 @@ I love combining my skills in **design + development** to craft both pretty and 
 
 ## 🤝 Let's connect!
 
-Would love to hear from you 💌
+I would love to hear from you 💌
 
 - **Email:** [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)  
 - **LinkedIn:** [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)  
