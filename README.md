@@ -18,10 +18,7 @@ I'm a **software development student** with a strong passion for **graphic desig
 
 | Categoría                  | Herramientas                                                                 |
 |---------------------------|------------------------------------------------------------------------------|
-| 🎨 Diseño Gráfico          | ![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-F24E1E?logo=adobeillustrator&logoColor=white)  
-                             ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)  
-                             ![InDesign](https://img.shields.io/badge/Adobe-InDesign-FF3366?logo=adobeindesign&logoColor=white)  
-                             ![XD](https://img.shields.io/badge/Adobe-XD-FF61F6?logo=adobexd&logoColor=white) |
+| 🎨 Diseño Gráfico          | ![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-F24E1E?logo=adobeillustrator&logoColor=white), ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white), ![InDesign](https://img.shields.io/badge/Adobe-InDesign-FF3366?logo=adobeindesign&logoColor=white), ![XD](https://img.shields.io/badge/Adobe-XD-FF61F6?logo=adobexd&logoColor=white) |
 | 🏗️ Diseño Técnico         | ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?logo=autodesk&logoColor=white) |
 | 💻 Desarrollo Web         | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
                              ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
