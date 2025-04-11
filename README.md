@@ -45,6 +45,6 @@ Would love to hear from you 💌
 
 ---
 
-<p align="center" color="grey">
+<p align="center" opacity="0.8">
   Made with love, coffee, and lots of curiosity ✨
 </p>
