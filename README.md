@@ -29,9 +29,9 @@ I'm a **software development student** with a strong passion for **graphic desig
 I love combining my skills in **design + development** to craft both pretty and functional digital experiences.
 
 **Featured Project:**  
-[Savor's Coffee](https://savors.vercel.app/) — A curated platform for coffee lovers to explore new spots and experiences.
+[Vitalia Selfcare](https://savors.vercel.app/) — A wellness platform that connects you with personalized plans made to fit your life.
 
-📬 [savorscoffeemza@gmail.com](mailto:savorscoffeemza@gmail.com)
+📬 [vitalia.selfcare@gmail.com](mailto:vitalia.selfcare@gmail.com)
 
 ---
 
