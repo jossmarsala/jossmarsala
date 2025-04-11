@@ -10,7 +10,7 @@ I'm a **software development student** with a strong passion for **graphic desig
 
 ## 💾 Tools & technologies I love
 
-𓍢ִ໋🎧 These are the tools I enjoy working with:
+These are the tools I enjoy working with:
 
 <img src="https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png" width="210" align="right"/>
 
@@ -28,7 +28,7 @@ I'm a **software development student** with a strong passion for **graphic desig
 
 I love combining my skills in **design + development** to craft both pretty and functional digital experiences. I'm currently working on [Vitalia Selfcare](https://savors.vercel.app/) — A wellness platform that connects you with personalized plans made to fit your life.
 
-📬 [vitalia.selfcare@gmail.com](mailto:vitalia.selfcare@gmail.com)
+- [vitalia.selfcare@gmail.com](mailto:vitalia.selfcare@gmail.com)
 
 ---
 
