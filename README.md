@@ -6,7 +6,7 @@
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/hi.gif"
     alt="ícono hi"
     width="25px"
-    style="margin-right: 8px;"
+    style="margin-right: 10px;"
   />
   Hi! I’m Joss
 </h1>
