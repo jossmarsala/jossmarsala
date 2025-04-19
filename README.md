@@ -22,7 +22,7 @@ I'm a **software development student** with a strong passion for **graphic desig
 
 These are the tools I enjoy working with:
 
-<img src="https://github.com/jossmarsala/jossmarsala/blob/main/tech-box.png" width="210" align="right"/>
+<img src="https://github.com/jossmarsala/jossmarsala/blob/main/plant.gif" width="210" align="right"/>
 
 | Category                    | Tools                                                              |
 |:---------------------------:|:-------------------------------------------------------------------|
