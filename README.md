@@ -34,20 +34,21 @@ These are the tools I enjoy working with:
 
 ## Projects I'm proud of
 
-<div style="display: flex; align-items: center;">
+<div style="display: inline-flex; align-items: center;">
   <img 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/plant.gif" 
     width="100" 
-    style="margin-right: 20px;"
+    style="margin-right: 20px;" 
     alt="plant gif"
   />
-  <p>
+  <p style="margin: 0;">
     I love combining my skills in <strong>design + development</strong> to craft both pretty and functional digital experiences. 
     I'm currently working on a Python-based API for 
-    <a href="https://vitalia-selfcare.vercel.app/" target="_blank">Vitalia Selfcare</a> — 
+    <a href="https://savors.vercel.app/" target="_blank">Vitalia Selfcare</a> — 
     a wellness platform that connects you with personalized plans made to fit your life.
   </p>
 </div>
+
 
 ---
 
