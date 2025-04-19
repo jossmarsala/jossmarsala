@@ -54,7 +54,7 @@ These are the tools I enjoy working with:
 <div style="display: inline-block; vertical-align: middle;">
   <img 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/book.gif" 
-    width="120px" 
+    width="140px" 
     align="right"
     alt="books & coffee gif"
   />
