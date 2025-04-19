@@ -22,8 +22,6 @@ I'm a **software development student** with a strong passion for **graphic desig
 
 These are the tools I enjoy working with:
 
-<img src="https://github.com/jossmarsala/jossmarsala/blob/main/plant.gif" width="210" align="right"/>
-
 | Category                    | Tools                                                              |
 |:---------------------------:|:-------------------------------------------------------------------|
 | Web development | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
@@ -35,6 +33,8 @@ These are the tools I enjoy working with:
 ---
 
 ## 🌸 Projects I'm proud of
+
+<img src="https://github.com/jossmarsala/jossmarsala/blob/main/plant.gif" width="100" align="right"/>
 
 I love combining my skills in **design + development** to craft both pretty and functional digital experiences. I'm currently working on a Python-based API for [Vitalia Selfcare](https://savors.vercel.app/) — A wellness platform that connects you with personalized plans made to fit your life.
 
