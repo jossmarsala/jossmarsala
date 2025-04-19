@@ -1,9 +1,16 @@
 
-<img src="https://github.com/jossmarsala/jossmarsala/blob/main/hi.gif" width="85" align="left" margin-bottom=10px; /> 
+---
 
---
+<h1 style="display: flex; align-items: center;">
+  <img
+    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/hi.gif"
+    alt="ícono hi"
+    width="20"
+    style="margin-right: 8px;"
+  />
+  Hi! I’m Joss
+</h1>
 
-<img src="https://github.com/jossmarsala/jossmarsala/blob/main/me.png" width="85" align="left" margin-bottom=10px; />
 
 ### 🍰 **Aspiring full-stack developer & graphic designer**  
 
