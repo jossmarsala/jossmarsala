@@ -16,7 +16,7 @@
 
 <div style="display: inline-block; vertical-align: middle;">
   <img 
-    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/joss.png" 
+    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/me.png" 
     width="140px" 
     align="right"
     alt="me"
