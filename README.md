@@ -45,9 +45,12 @@ These are the tools I enjoy working with:
 
 <div style="display: inline-block; vertical-align: middle; padding-left: 15px;">
   I love combining my skills in <strong>design + development</strong> to craft both pretty and functional digital experiences. 
+  My passion lies in creating seamless user interfaces and building robust back-end systems that work together harmoniously. 
   I'm currently working on a Python-based API for 
   <a href="https://savors.vercel.app/" target="_blank">Vitalia Selfcare</a> — 
-  a wellness web platform I made in collaboration with my team that connects you with personalized plans made to fit your life.
+  a wellness web platform I made in collaboration with my talented team. 
+  This platform connects users with personalized wellness plans, designed to help them achieve their health goals while fitting seamlessly into their everyday lives. 
+  It’s a project close to my heart, as I truly believe in the power of personalized care and well-being.
 </div>
 
 ---
