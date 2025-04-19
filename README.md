@@ -66,7 +66,7 @@ These are the tools I enjoy working with:
   <img
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/letter.gif"
     alt="ícono hi"
-    width="45px"
+    width="30px"
     style="margin-right: 10px;"
   />
   Let's connect!
