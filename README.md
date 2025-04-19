@@ -26,7 +26,7 @@ These are the tools I enjoy working with:
 
 ## 🌸 Projects I'm proud of
 
-I love combining my skills in **design + development** to craft both pretty and functional digital experiences. I'm currently working on [Vitalia Selfcare](https://savors.vercel.app/) — A wellness platform that connects you with personalized plans made to fit your life.
+I love combining my skills in **design + development** to craft both pretty and functional digital experiences. I'm currently working on a Python-based API for [Vitalia Selfcare](https://savors.vercel.app/) — A wellness platform that connects you with personalized plans made to fit your life.
 
 - [vitalia.selfcare@gmail.com](mailto:vitalia.selfcare@gmail.com)
 
