@@ -80,4 +80,4 @@ I would love to hear from you
 
 ---
 
-'Made with love and lots of curiosity ✨'
+>"Made with love and lots of curiosity"
