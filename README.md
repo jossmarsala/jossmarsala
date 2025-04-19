@@ -48,7 +48,7 @@ These are the tools I enjoy working with:
     width="35px"
     style="margin-right: 15px;"
   />
-  Projects im proud of
+   Projects im proud of
 </h2>
 
 <div style="display: inline-block; vertical-align: middle;">
@@ -77,7 +77,7 @@ These are the tools I enjoy working with:
     width="30px"
     style="margin-right: 10px;"
   />
-  Let's connect!
+   Let's connect!
 </h2>
 
 I would love to hear from you 
