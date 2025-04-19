@@ -58,7 +58,6 @@ These are the tools I enjoy working with:
   <a href="https://savors.vercel.app/" target="_blank">Vitalia Selfcare</a> — 
   a wellness web platform I made in collaboration with my team. 
   This platform connects users with personalized wellness plans, designed to help them achieve their health goals while fitting into their everyday lives. 
-  It’s a project close to my heart, as I truly believe in accesibility to personalized care to everyone.
 </div>
 
 ---
