@@ -34,6 +34,7 @@ These are the tools I enjoy working with:
 
 ## 🌸 Projects I'm proud of
 
+<div>
 <img 
   src="https://github.com/jossmarsala/jossmarsala/blob/main/plant.gif" 
   width="100" 
@@ -42,6 +43,7 @@ These are the tools I enjoy working with:
 />
 
 <p> I love combining my skills in <strong>design + development</strong> to craft both pretty and functional digital experiences. I'm currently working on a Python-based API for [Vitalia Selfcare](https://savors.vercel.app/) — A wellness platform that connects you with personalized plans made to fit your life.</p>
+</div>
 
 ---
 
