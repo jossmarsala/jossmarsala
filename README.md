@@ -38,7 +38,7 @@ These are the tools I enjoy working with:
   <img 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/plant.gif" 
     width="100" 
-    align="left"
+    align="right"
     alt="plant gif"
   />
 </div>
