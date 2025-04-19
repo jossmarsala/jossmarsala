@@ -5,7 +5,7 @@
   <img
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/hi.gif"
     alt="ícono hi"
-    width="35px"
+    width="45px"
     style="margin-right: 10px;"
   />
   Hi! I’m Joss <3
