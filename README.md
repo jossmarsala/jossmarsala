@@ -2,13 +2,13 @@
 ---
 
 <h1 style="display: flex; align-items: center;">
-  Hi! I’m Joss
-    <img
+  <img
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/hi.gif"
     alt="ícono hi"
-    width="30px"
+    width="35px"
     style="margin-left: 8px;"
   />
+  Hi! I’m Joss
 </h1>
 
 
