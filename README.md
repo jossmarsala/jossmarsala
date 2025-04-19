@@ -5,8 +5,8 @@
   <img
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/hi.gif"
     alt="ícono hi"
-    width="35px"
-    style="margin-left: 8px;"
+    width="30px"
+    style="margin-right: 8px;"
   />
   Hi! I’m Joss
 </h1>
