@@ -1,6 +1,6 @@
 # Hi, I'm Joss! ＼_ヽ(⌒ ‿ ⌒)
 
-<img src="https://github.com/jossmarsala/jossmarsala/blob/main/me.png" width="90" align="left" margin-bottom=10px; />
+<img src="https://github.com/jossmarsala/jossmarsala/blob/main/me.png" width="85" align="left" margin-bottom=10px; />
 
 ### 🍰 **Aspiring full-stack developer & graphic designer**  
 
