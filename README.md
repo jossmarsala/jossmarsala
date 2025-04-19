@@ -17,9 +17,9 @@
 <div style="display: inline-block; vertical-align: middle;">
   <img 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/me.png" 
-    width="200" 
-    align="right"
-    alt="plant gif"
+    width="170" 
+    align="left"
+    alt="me"
   />
 </div>
 
