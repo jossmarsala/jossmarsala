@@ -37,7 +37,7 @@ These are the tools I enjoy working with:
 <div style="display: inline-flex; align-items: center;">
   <img 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/plant.gif" 
-    width="100" 
+    width="40px" 
     style="margin-right: 20px;" 
     alt="plant gif"
   />
@@ -45,7 +45,7 @@ These are the tools I enjoy working with:
     I love combining my skills in <strong>design + development</strong> to craft both pretty and functional digital experiences. 
     I'm currently working on a Python-based API for 
     <a href="https://savors.vercel.app/" target="_blank">Vitalia Selfcare</a> — 
-    a wellness platform that connects you with personalized plans made to fit your life.
+    a wellness platform that connects you with personalized plans made to fit your lifestyle.
   </p>
 </div>
 
