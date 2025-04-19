@@ -1,4 +1,5 @@
-# Hi, I'm Joss! ＼_ヽ(⌒ ‿ ⌒)
+<img src="https://github.com/jossmarsala/jossmarsala/blob/main/hi.gif" width="85" align="left" margin-bottom=10px; /> 
+# Hi, I'm Joss!
 
 <img src="https://github.com/jossmarsala/jossmarsala/blob/main/me.png" width="85" align="left" margin-bottom=10px; />
 
