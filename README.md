@@ -32,22 +32,26 @@ These are the tools I enjoy working with:
 | Technical design | ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?logo=autodesk&logoColor=white) |
 ---
 
-## 🌸 Projects I'm proud of
+## Projects I'm proud of
 
-<p>
-<img 
-  src="https://github.com/jossmarsala/jossmarsala/blob/main/plant.gif" 
-  width="100" 
-  align="left"  
-  style="padding: 20px"
-/>
-
-<p> I love combining my skills in <strong>design + development</strong> to craft both pretty and functional digital experiences. I'm currently working on a Python-based API for [Vitalia Selfcare](https://savors.vercel.app/) — A wellness platform that connects you with personalized plans made to fit your life.</p>
-</p>
+<div style="display: flex; align-items: flex-start;">
+  <img 
+    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/plant.gif" 
+    width="100" 
+    style="margin-right: 20px;"
+    alt="plant gif"
+  />
+  <p>
+    I love combining my skills in <strong>design + development</strong> to craft both pretty and functional digital experiences. 
+    I'm currently working on a Python-based API for 
+    <a href="https://vitalia-selfcare.vercel.app/" target="_blank">Vitalia Selfcare</a> — 
+    a wellness platform that connects you with personalized plans made to fit your life.
+  </p>
+</div>
 
 ---
 
-## 🤝 Let's connect!
+## Let's connect!
 
 I would love to hear from you 💌
 
