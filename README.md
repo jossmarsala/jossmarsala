@@ -45,7 +45,7 @@ These are the tools I enjoy working with:
 
 <div style="display: inline-block; vertical-align: middle;">
   <img 
-    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/frog.gif" 
+    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" 
     width="100" 
     align="right"
     alt="plant gif"
@@ -62,7 +62,15 @@ These are the tools I enjoy working with:
 
 ---
 
-## 💌 Let's connect!
+<h3 style="display: flex; align-items: center;">
+  <img
+    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/letter.gif"
+    alt="ícono hi"
+    width="45px"
+    style="margin-right: 10px;"
+  />
+  Let's connect!
+</h3>
 
 I would love to hear from you 
 
