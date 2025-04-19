@@ -8,7 +8,7 @@
     width="25px"
     style="margin-right: 10px;"
   />
-  Hi! I’m Joss
+  Hi! I’m Joss <3
 </h1>
 
 
