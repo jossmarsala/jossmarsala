@@ -45,8 +45,8 @@ These are the tools I enjoy working with:
   <img
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/butterfly.gif"
     alt="ícono hi"
-    width="30px"
-    style="margin-right: 10px;"
+    width="35px"
+    style="margin-right: 15px;"
   />
   Projects im proud of
 </h2>
@@ -74,7 +74,7 @@ These are the tools I enjoy working with:
   <img
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/letter.gif"
     alt="ícono hi"
-    width="25px"
+    width="30px"
     style="margin-right: 10px;"
   />
   Let's connect!
