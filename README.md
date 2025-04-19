@@ -80,7 +80,7 @@ These are the tools I enjoy working with:
    Let's connect!
 </h2>
 
-I would love to hear from you 
+I would love to hear from you!
 
 - **Email:** [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)  
 - **LinkedIn:** [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)  
@@ -88,4 +88,4 @@ I would love to hear from you
 
 ---
 
->made with love and lots of curiosity
+>made with love, coffee and lots of curiosity
