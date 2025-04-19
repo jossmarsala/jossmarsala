@@ -41,7 +41,7 @@ These are the tools I enjoy working with:
   style="padding: 20px"
 />
 
-I love combining my skills in **design + development** to craft both pretty and functional digital experiences. I'm currently working on a Python-based API for [Vitalia Selfcare](https://savors.vercel.app/) — A wellness platform that connects you with personalized plans made to fit your life.
+<p> I love combining my skills in <strong>design + development</strong> to craft both pretty and functional digital experiences. I'm currently working on a Python-based API for [Vitalia Selfcare](https://savors.vercel.app/) — A wellness platform that connects you with personalized plans made to fit your life.</p>
 
 ---
 
