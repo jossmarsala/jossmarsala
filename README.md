@@ -41,11 +41,19 @@ These are the tools I enjoy working with:
 | Technical design | ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?logo=autodesk&logoColor=white) |
 ---
 
-## Projects I'm proud of
+<h2 style="display: flex; align-items: center;">
+  <img
+    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/butterfly.gif"
+    alt="ícono hi"
+    width="30px"
+    style="margin-right: 10px;"
+  />
+  Projects im proud of
+</h2>
 
 <div style="display: inline-block; vertical-align: middle;">
   <img 
-    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/books.gif" 
+    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/book.gif" 
     width="100" 
     align="right"
     alt="plant gif"
