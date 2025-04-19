@@ -46,7 +46,7 @@ These are the tools I enjoy working with:
 <div style="display: inline-block; vertical-align: middle;">
   <img 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" 
-    width="100" 
+    width="90" 
     align="right"
     alt="plant gif"
   />
