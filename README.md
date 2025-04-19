@@ -34,7 +34,7 @@ These are the tools I enjoy working with:
 
 ## Projects I'm proud of
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: center;">
   <img 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/plant.gif" 
     width="100" 
