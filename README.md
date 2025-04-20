@@ -88,4 +88,4 @@ I would love to hear from you!
 
 ---
 
->made with love, coffee and lots of curiosity
+>made with love and coffee 
