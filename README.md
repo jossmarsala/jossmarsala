@@ -23,7 +23,7 @@
   />
 </div>
 
-I'm a **software development student** with a strong passion for **graphic design**, driven by curiosity and a constant desire to learn — especially in areas like AI and cybersecurity. If you're working on something exciting or looking for a creative and committed collaborator, I’d love to connect!
+I'm a **software development student** with a strong passion for **graphic design**, driven by curiosity and a constant desire to learn — especially in areas like machine learning and cybersecurity. If you're working on something exciting or looking for a creative and committed collaborator, I’d love to connect!
 
 ---
 
