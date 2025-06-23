@@ -41,27 +41,45 @@ These are the tools I enjoy working with:
 | Technical Design    | ![AutoCAD](https://img.shields.io/badge/AutoCAD-3c2f2f?logo=autodesk&logoColor=white)                                                                                                                                                                                                                                                                                 |
 
 <h2 style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/butterfly.gif" alt="ícono mariposas" width="35px""/>
-  Currently working on </h2>
+### 🧭 Progress Timeline
 
-> 🌼 *growing in small, meaningful steps…*
+🌼 **March 2024** — Started building [**Vitalia Selfcare**](https://www.vitalia-selfcare.vercel.app), a wellness web platform designed to support users in building healthier daily habits.  
+🐍 **April–May 2024** — Developed a **RESTful API using Python + Firebase**, managing users, resources, and personalized wellness plans.  
+🧠 **June 2024 → now** — Diving into **C and C++** to deepen my understanding of low-level systems and memory management.  
+☕ **Every day** — Iterating on design, usability and architecture with a balance of creativity and logic.
 
 ---
 
-### 🧭 My Current Focus
+### 📊 GitHub Activity
 
-| 🗓️ Timeline           | ✨ Progress                                                                                                                                      |
-|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🐣 Mar 2024          | Comencé el proyecto **[Vitalia Selfcare](https://www.vitalia-selfcare.vercel.app)** con mi equipo, una plataforma web de bienestar personalizada |
-| 🐍 May 2024          | Empecé a construir la **API en Python + Firebase**, para manejar usuarios, recursos y planes                                                    |
-| 🧠 Jun 2024 → Now     | Aprendiendo **C y C++** para fortalecer mi base lógica y sistemas low-level                                                                     |
-| ☕ Every day         | Mejorando diseño, accesibilidad y experiencia de usuario                                                                                         |
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=12)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=calm&hide_border=true)
+<!-- GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=jossmarsala&show_icons=true&theme=calm&hide_border=true&border_radius=12"
+  width="450px"
+/>
 
 </div>
+
+<br />
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+
+<!-- Streak Stats -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=calm&hide_border=true&border_radius=12"
+  width="365px"
+/>
+
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=12"
+  width="265px"
+/>
+
+</div>
+
 
 
 ---
