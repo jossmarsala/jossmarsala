@@ -44,34 +44,23 @@ These are the tools I enjoy working with:
 
 <h2 style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/butterfly.gif" alt="ícono" width="35px" style="margin-right: 15px;"/> Currently working on</h2>
 
-<div align="left" style="float:left; width:45%; margin-right:5%;">
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=calm&hide_border=true&border_radius=12"
+  width="360px"
+  alt="GitHub streak"
+/>
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=calm&hide_border=true&border_radius=12"
-    width="100%"
-    alt="GitHub streak"
-  />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=12"
+  width="265px"
+  alt="Top languages"
+/>
 
-  <br />
+---
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=12"
-    width="100%"
-    alt="Top languages"
-  />
-
-</div>
-
-<div align="left" style="width:50%;">
-
-Over the last few months, I’ve been pouring my energy into **Vitalia**, a collaborative project that blends tech and wellness. I started with the platform’s visual and functional design, and now I’m developing the backend — building a custom REST API in Python using Firebase.<br><br>
+Over the last few months, I’ve been pouring my energy into **Vitalia**, a collaborative project that blends tech and wellness. I started with the platform’s visual and functional design, and now I’m developing the backend — building a custom REST API in Python using Firebase.
 
 At the same time, I’ve been exploring lower-level programming through **C and C++** and learning the fundamentals of cybersecurity through the **Google Cybersecurity Professional Certificate**.
-
-</div>
-
-<div style="clear: both;"></div>
-
 
 
 ---
