@@ -18,7 +18,7 @@
   <img 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/me.png" 
     width="160px" 
-    align="left"
+    align="right"
     alt="me"
   />
 </div>
@@ -50,6 +50,7 @@ Over the last few months, I’ve been pouring my energy into **Vitalia**, a coll
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=solarized-light&hide_border=true&border_radius=9"
     width="250px"
+    align="right"
     alt="Top languages"/>
 </div> 
 
