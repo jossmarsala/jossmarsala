@@ -31,18 +31,15 @@ I'm a **software development student** with a strong passion for **graphic desig
 
 These are the tools I enjoy working with:
 
-| Category                    | Tools                                                              |
-|:---------------------------:|:-------------------------------------------------------------------|
-| Web development | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| Databases | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
-|
-| IDE | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) |
-| Productivity | ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoftoffice&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
- |
-| Graphic design | ![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-F24E1E?logo=adobeillustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) ![InDesign](https://img.shields.io/badge/Adobe-InDesign-FF3366?logo=adobeindesign&logoColor=white) ![XD](https://img.shields.io/badge/Adobe-XD-FF61F6?logo=adobexd&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
- |
-| Technical design | ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?logo=autodesk&logoColor=white) |
----
+| Category          | Tools                                                                                                                                                                                                                                                                                                                                                              |
+|:----------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Web dev             | ![HTML5](https://img.shields.io/badge/HTML5-ffadad?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-b5ead7?logo=css3&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-cbaacb?logo=bootstrap&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-fff1a6?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-9bf6ff?logo=python&logoColor=black) |
+| 🗃Databases           | ![MySQL](https://img.shields.io/badge/MySQL-ffd6a5?logo=mysql&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-ffb6b9?logo=firebase&logoColor=white)                                                                                                                                                                                               |
+| IDE / Code          | ![VS Code](https://img.shields.io/badge/VS_Code-a0c4ff?logo=visualstudiocode&logoColor=black)                                                                                                                                                                                                                                                                          |
+| Productivity        | ![Excel](https://img.shields.io/badge/Excel-d0f4de?logo=microsoftexcel&logoColor=black) ![Office](https://img.shields.io/badge/Office-fec5bb?logo=microsoftoffice&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-ead1dc?logo=notion&logoColor=black)                                                                                                   |
+| Graphic design      | ![Illustrator](https://img.shields.io/badge/Illustrator-fec89a?logo=adobeillustrator&logoColor=black) ![Photoshop](https://img.shields.io/badge/Photoshop-bdb2ff?logo=adobephotoshop&logoColor=black) ![InDesign](https://img.shields.io/badge/InDesign-ffafcc?logo=adobeindesign&logoColor=black) ![XD](https://img.shields.io/badge/XD-caffbf?logo=adobexd&logoColor=black) ![AE](https://img.shields.io/badge/After_Effects-ffc6ff?logo=adobeaftereffects&logoColor=black) |
+| Technical Design    | ![AutoCAD](https://img.shields.io/badge/AutoCAD-cccccc?logo=autodesk&logoColor=black)                                                                                                                                                                                                                                                                                  |
+
 
 <h2 style="display: flex; align-items: center;">
   <img
