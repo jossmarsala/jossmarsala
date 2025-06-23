@@ -38,9 +38,9 @@ These are the tools I enjoy working with:
 |
 | IDE | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) |
 | Productivity | ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoftoffice&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-|
+ |
 | Graphic design | ![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-F24E1E?logo=adobeillustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) ![InDesign](https://img.shields.io/badge/Adobe-InDesign-FF3366?logo=adobeindesign&logoColor=white) ![XD](https://img.shields.io/badge/Adobe-XD-FF61F6?logo=adobexd&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
-|
+ |
 | Technical design | ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?logo=autodesk&logoColor=white) |
 ---
 
