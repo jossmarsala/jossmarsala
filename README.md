@@ -52,14 +52,15 @@ At the same time, I’ve been exploring lower-level programming through **C and 
 
 <div style="display: inline-block; vertical-align: middle;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=gruvbox&hide_border=true&border_radius=9"
     width="264px"
     alt="Top languages"/>
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=light&hide_border=true&border_radius=12"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=gruvbox&hide_border=true&border_radius=12"
     width="310px"
     alt="GitHub streak"/>
-</div>
+</div> 
+
 
 ---
 
