@@ -48,15 +48,19 @@ Over the last few months, I’ve been pouring my energy into **Vitalia**, a coll
 
 At the same time, I’ve been exploring lower-level programming through **C and C++** and learning the fundamentals of cybersecurity through the **Google Cybersecurity Professional Certificate**.
 
+</br>
+
 <div style="display: inline-block; vertical-align: middle;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=12"
     width="265px"
+    height="50px"
     alt="Top languages"
   />
   <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=calm&hide_border=true&border_radius=12"
   width="360px"
+  height="50px"
   alt="GitHub streak"
   />
 </div>
