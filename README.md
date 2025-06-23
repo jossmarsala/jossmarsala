@@ -83,7 +83,7 @@ Whether it’s techy, artsy or something in between: let’s talk! 💌
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jossmarsala&color=6b705c&style=flat" alt="profile views" />
   <br />
-  <sub>made with coffee and lots of love!</sub>  
+  <sub>made with coffee and lots of love</sub>  
 </div>
 
 
