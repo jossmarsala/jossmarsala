@@ -44,28 +44,38 @@ These are the tools I enjoy working with:
 
 <h2 style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/butterfly.gif" alt="ícono" width="35px" style="margin-right: 15px;"/> Currently working on</h2>
 
+<table cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Texto a la izquierda -->
+    <td align="left" width="60%" style="vertical-align: top; padding-right: 20px;">
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" width="100px" alt="cute cat"/>
-</div>
-
-Over the last few months, I’ve been pouring my energy into **Vitalia**, a collaborative project that blends tech and wellness. I started with the platform’s visual and functional design, and now I’m developing the backend — building a custom REST API in Python using Firebase.  
+Over the last few months, I’ve been pouring my energy into **Vitalia**, a collaborative project that blends tech and wellness. I started with the platform’s visual and functional design, and now I’m developing the backend — building a custom REST API in Python using Firebase.<br><br>
 
 At the same time, I’ve been exploring lower-level programming through **C and C++** and learning the fundamentals of cybersecurity through the **Google Cybersecurity Professional Certificate**.
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+  </td>
+    <td align="center" width="40%" style="vertical-align: top;">
+      <div>
+        <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" width="100px" alt="cute cat"/>
+      </div>
+      <div style="margin-top: 15px;">
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=calm&hide_border=true&border_radius=12"
+          width="100%"
+          alt="GitHub streak"
+        />
+      </div>
+      <div style="margin-top: 15px;">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=12"
+          width="100%"
+          alt="Top languages"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=calm&hide_border=true&border_radius=12"
-    width="360px"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=12"
-    width="265px"
-  />
-
-</div>
 
 ---
 
