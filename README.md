@@ -66,12 +66,17 @@ At the same time, I’ve been exploring lower-level programming through **C and 
 
 ## 📁 Let’s connect!
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" width="80px" alt="cute cat"/>
-</div>
-
 I’m always happy to meet new people, exchange ideas, or join inspiring projects.  
 Whether it’s techy, artsy or something in between: let’s talk! 💌
+
+<div style="display: inline-block; vertical-align: middle;">
+  <img 
+    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" 
+    width="160px" 
+    align="right"
+    alt="me"
+  />
+</div>
 
 - **Email**: [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)
 - **LinkedIn**: [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)
