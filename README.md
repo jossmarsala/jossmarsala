@@ -69,6 +69,8 @@ These are the tools I enjoy working with:
   This platform connects users with personalized wellness plans, designed to help them achieve their health goals while fitting into their everyday lives. 
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm)
+
 ---
 
 <h2 style="display: flex; align-items: center;">
