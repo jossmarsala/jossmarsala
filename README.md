@@ -69,7 +69,7 @@ At the same time, I’ve been exploring lower-level programming through **C and 
 <div style="display: inline-block; vertical-align: middle;">
   <img 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" 
-    width="160px" 
+    width="120px" 
     align="right"
     alt="me"
   />
