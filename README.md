@@ -48,8 +48,6 @@ Over the last few months, I’ve been pouring my energy into **Vitalia**, a coll
 
 At the same time, I’ve been exploring lower-level programming through **C and C++** and learning the fundamentals of cybersecurity through the **Google Cybersecurity Professional Certificate**.
 
-</br>
-
 <div style="display: inline-block; vertical-align: middle;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=solarized-light&hide_border=true&border_radius=9"
