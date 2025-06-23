@@ -18,7 +18,7 @@
   <img 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/me.png" 
     width="160px" 
-    align="right"
+    align="left"
     alt="me"
   />
 </div>
