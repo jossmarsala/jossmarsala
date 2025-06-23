@@ -40,51 +40,38 @@ These are the tools I enjoy working with:
 | Graphic design      | ![Illustrator](https://img.shields.io/badge/Illustrator-c28b00?logo=adobeillustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-7f9c96?logo=adobephotoshop&logoColor=white) ![InDesign](https://img.shields.io/badge/InDesign-a98467?logo=adobeindesign&logoColor=white) ![XD](https://img.shields.io/badge/XD-8d7b68?logo=adobexd&logoColor=white) ![AE](https://img.shields.io/badge/After_Effects-b5838d?logo=adobeaftereffects&logoColor=white) |
 | Technical Design    | ![AutoCAD](https://img.shields.io/badge/AutoCAD-3c2f2f?logo=autodesk&logoColor=white)                                                                                                                                                                                                                                                                                 |
 
-<h2 style="display: flex; align-items: center;">
-### 🧭 Progress Timeline
-
-🌼 **March 2024** — Started building [**Vitalia Selfcare**](https://www.vitalia-selfcare.vercel.app), a wellness web platform designed to support users in building healthier daily habits.  
-🐍 **April–May 2024** — Developed a **RESTful API using Python + Firebase**, managing users, resources, and personalized wellness plans.  
-🧠 **June 2024 → now** — Diving into **C and C++** to deepen my understanding of low-level systems and memory management.  
-☕ **Every day** — Iterating on design, usability and architecture with a balance of creativity and logic.
-
 ---
 
-### 📊 GitHub Activity
+<h2 style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/butterfly.gif" alt="ícono" width="35px" style="margin-right: 15px;"/> Currently working on</h2>
+
 
 <div align="center">
-
-<!-- GitHub Stats -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=jossmarsala&show_icons=true&theme=calm&hide_border=true&border_radius=12"
-  width="450px"
-/>
-
+  <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/laptop.gif" width="100px" alt="pixel laptop"/>
 </div>
 
-<br />
+Over the last few months, I’ve been pouring my energy into **Vitalia Selfcare**, a collaborative project that blends tech and wellness. I started with the platform’s visual and functional design, and now I’m developing the backend — building a custom REST API in Python using Firebase.  
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+At the same time, I’ve been exploring lower-level programming through **C and C++**, trying to understand computers at a deeper level. It's a humbling process, but one that’s giving me a stronger foundation in how things actually work under the hood.
 
-<!-- Streak Stats -->
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=calm&hide_border=true&border_radius=12"
-  width="365px"
-/>
+My days usually start with coffee and code, and end with design tweaks or refactoring ideas scribbled in my notebook. It’s a slow, deliberate rhythm — but one I’m really proud of.
 
-<!-- Top Languages -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=12"
-  width="265px"
-/>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=calm&hide_border=true&border_radius=12"
+    width="360px"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=12"
+    width="265px"
+  />
 
 </div>
-
-
 
 ---
 
-## 🐇 Let’s Connect!
+## 🐇 Let’s connect!
 
 I’m always happy to meet new people, exchange ideas, or join inspiring projects.  
 Whether it’s techy, artsy or something in between: let’s talk! 💌
