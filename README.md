@@ -40,16 +40,45 @@ These are the tools I enjoy working with:
 | Graphic design      | ![Illustrator](https://img.shields.io/badge/Illustrator-c28b00?logo=adobeillustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-7f9c96?logo=adobephotoshop&logoColor=white) ![InDesign](https://img.shields.io/badge/InDesign-a98467?logo=adobeindesign&logoColor=white) ![XD](https://img.shields.io/badge/XD-8d7b68?logo=adobexd&logoColor=white) ![AE](https://img.shields.io/badge/After_Effects-b5838d?logo=adobeaftereffects&logoColor=white) |
 | Technical Design    | ![AutoCAD](https://img.shields.io/badge/AutoCAD-3c2f2f?logo=autodesk&logoColor=white)                                                                                                                                                                                                                                                                                 |
 
-
-
 <h2 style="display: flex; align-items: center;">
-  <img
-    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/butterfly.gif"
-    alt="ícono hi"
-    width="35px""
-  />
-   Currently working on
-</h2>
+  <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/butterfly.gif" alt="ícono mariposas" width="35px""/>
+  Currently working on </h2>
+
+## 🪴 Currently Working On
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/laptop.gif" width="100px" alt="pixel laptop"/>
+</div>
+
+> 🌼 *growing in small, meaningful steps…*
+
+---
+
+### 🧭 My Current Focus
+
+| 🗓️ Timeline           | ✨ Progress                                                                                                                                      |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🐣 Mar 2024          | Comencé el proyecto **[Vitalia Selfcare](https://www.vitalia-selfcare.vercel.app)** con mi equipo, una plataforma web de bienestar personalizada |
+| 🐍 May 2024          | Empecé a construir la **API en Python + Firebase**, para manejar usuarios, recursos y planes                                                    |
+| 🧠 Jun 2024 → Now     | Aprendiendo **C y C++** para fortalecer mi base lógica y sistemas low-level                                                                     |
+| ☕ Every day         | Mejorando diseño, accesibilidad y experiencia de usuario                                                                                         |
+
+---
+
+### 📊 GitHub Activity Snapshot
+
+<div align="center">
+
+![Joss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jossmarsala&show_icons=true&theme=calm&hide_border=true&border_radius=12)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=12)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=calm&hide_border=true)
+
+</div>
+
+
+---
 
 ## 🐇 Let’s Connect!
 
