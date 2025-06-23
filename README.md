@@ -66,6 +66,9 @@ At the same time, I’ve been exploring lower-level programming through **C and 
 
 ## 📁 Let’s connect!
 
+I’m always happy to meet new people, exchange ideas, or join inspiring projects.  
+Whether it’s techy, artsy or something in between: let’s talk! 💌
+
 <div style="display: inline-block; vertical-align: bottom;">
   <img 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" 
@@ -74,9 +77,6 @@ At the same time, I’ve been exploring lower-level programming through **C and 
     alt="me"
   />
 </div>
-
-I’m always happy to meet new people, exchange ideas, or join inspiring projects.  
-Whether it’s techy, artsy or something in between: let’s talk! 💌
 
 - **Email**: [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)
 - **LinkedIn**: [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)
