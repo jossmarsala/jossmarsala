@@ -77,7 +77,7 @@ These are the tools I enjoy working with:
   <img
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif"
     alt="ícono hi"
-    width="30px"
+    width="70px"
     style="margin-right: 10px;"
   />
    Let's connect!
