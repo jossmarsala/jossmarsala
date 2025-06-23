@@ -48,6 +48,7 @@ These are the tools I enjoy working with:
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=solarized-light&hide_border=true&border_radius=9"
     width="300px"
+    height="200px"
     align="right"
     alt="Top languages"/>
 </div> 
