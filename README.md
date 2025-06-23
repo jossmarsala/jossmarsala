@@ -73,7 +73,7 @@ These are the tools I enjoy working with:
 
 <h2 style="display: flex; align-items: center;">
   <img
-    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/letter.gif"
+    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif"
     alt="ícono hi"
     width="30px"
     style="margin-right: 10px;"
