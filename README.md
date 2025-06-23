@@ -74,7 +74,7 @@ At the same time, I’ve been exploring lower-level programming through **C and 
 I’m always happy to meet new people, exchange ideas, or join inspiring projects.  
 Whether it’s techy, artsy or something in between: let’s talk! 💌
 
-- **My design portfolio**: [behance.com]([mailto:marsalahjosefina@gmail.com](https://www.behance.net/gallery/226352029/Joss-Graphic-Design-Portfolio))
+- **My design portfolio**: [behance.com](https://www.behance.net/gallery/226352029/Joss-Graphic-Design-Portfolio)
 - **Email**: [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)
 - **LinkedIn**: [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)
 
