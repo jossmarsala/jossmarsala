@@ -54,7 +54,7 @@ At the same time, I’ve been exploring lower-level programming through **C and 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=12"
     width="265px"
-    height="150px"
+    height="190px"
     alt="Top languages"
   />
   <img 
