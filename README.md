@@ -52,7 +52,7 @@ At the same time, I’ve been exploring lower-level programming through **C and 
 
 <div style="display: inline-block; vertical-align: middle;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=6"
     width="263px"
     alt="Top languages"/>
   <img 
