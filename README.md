@@ -71,7 +71,7 @@ At the same time, I’ve been exploring lower-level programming through **C and 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" 
     width="120px" 
     align="right"
-    alt="me"
+    alt="cute cat"
   />
 </div>
 
