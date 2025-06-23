@@ -66,8 +66,8 @@ At the same time, I’ve been exploring lower-level programming through **C and 
 
 ## 📁 Let’s connect!
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" width="100px" alt="cute cat"/>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" width="80px" alt="cute cat"/>
 </div>
 
 I’m always happy to meet new people, exchange ideas, or join inspiring projects.  
