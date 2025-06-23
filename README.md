@@ -46,57 +46,11 @@ These are the tools I enjoy working with:
   <img
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/butterfly.gif"
     alt="ícono hi"
-    width="35px"
-    style="margin-right: 15px;"
+    width="35px""
   />
-   Projects im proud of
+   Currently working on
 </h2>
 
-<div style="display: inline-block; vertical-align: middle;">
-  <img 
-    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/book.gif" 
-    width="140px" 
-    align="right"
-    alt="books & coffee gif"
-  />
-</div>
 
-<div style="display: inline-block; vertical-align: middle; padding-left: 15px;">
-  I love combining my skills in <strong>design + development</strong> to craft both pretty and functional digital experiences. 
-  I'm currently working on a Python-based API for 
-  <a href="https://www.vitalia-selfcare.vercel.app" target="_blank">Vitalia Selfcare</a> — 
-  a wellness web platform I made in collaboration with my team. 
-  This platform connects users with personalized wellness plans, designed to help them achieve their health goals while fitting into their everyday lives. 
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm)
-
----
-
-<h2 style="display: flex; align-items: center;">
-  <img
-    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif"
-    alt="ícono hi"
-    width="40px"
-    style="margin-right: 10px;"
-  />
-   Let's connect!
-</h2>
-
-I would love to hear from you!
-
-## 🎧 Now Playing on Spotify
-
-[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/vxv40tp4nf6peqih9hh080e7y)
-
-![Visitors](https://komarev.com/ghpvc/?username=jossmarsala&color=6b705c&style=flat)
-
-
-
-- **Email:** [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)  
-- **LinkedIn:** [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)  
-- **GitHub:** [@jossmarsala](https://github.com/jossmarsala)
-
----
 
 >made with coffee and lots of love :)
