@@ -66,7 +66,7 @@ At the same time, I’ve been exploring lower-level programming through **C and 
 
 ## 📁 Let’s connect!
 
-<div align="right">
+<div align="center">
   <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" width="100px" alt="cute cat"/>
 </div>
 
