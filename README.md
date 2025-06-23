@@ -66,7 +66,7 @@ At the same time, I’ve been exploring lower-level programming through **C and 
 
 ## 📁 Let’s connect!
 
-<div style="display: inline-block; vertical-align: left;">
+<div style="display: inline-block; vertical-align: bottom;">
   <img 
     src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/cat.gif" 
     width="120px" 
