@@ -54,15 +54,16 @@ These are the tools I enjoy working with:
 ## 🐇 Let’s Connect!
 
 I’m always happy to meet new people, exchange ideas, or join inspiring projects.  
-Whether it’s techy, artsy or something in between — let’s talk! 💌
+Whether it’s techy, artsy or something in between: let’s talk! 💌
 
-- ✉**Email**: [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)
+- **Email**: [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)
 - **LinkedIn**: [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)
 
 ---
 
 <div align="center">
   <sub>made with coffee and lots of love!</sub>  
+  <br />
   <br />
   <img src="https://komarev.com/ghpvc/?username=jossmarsala&color=6b705c&style=flat" alt="profile views" />
 </div>
