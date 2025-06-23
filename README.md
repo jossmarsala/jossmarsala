@@ -44,8 +44,6 @@ These are the tools I enjoy working with:
 
 <h2 style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/butterfly.gif" alt="ícono" width="35px" style="margin-right: 15px;"/> Currently working on</h2>
 
-Over the last few months, I’ve been pouring my energy into **Vitalia**, a collaborative project that blends tech and wellness. I started with the platform’s visual and functional design, and now I’m developing the backend — building a custom REST API in Python using Firebase.
-
 <div style="display: inline-block; vertical-align: middle;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=solarized-light&hide_border=true&border_radius=9"
@@ -53,6 +51,8 @@ Over the last few months, I’ve been pouring my energy into **Vitalia**, a coll
     align="right"
     alt="Top languages"/>
 </div> 
+
+Over the last few months, I’ve been pouring my energy into **Vitalia**, a collaborative project that blends tech and wellness. I started with the platform’s visual and functional design, and now I’m developing the backend — building a custom REST API in Python using Firebase.
 
 At the same time, I’ve been exploring lower-level programming through **C and C++** and learning the fundamentals of cybersecurity through the **Google Cybersecurity Professional Certificate**.
 
