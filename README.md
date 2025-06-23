@@ -87,7 +87,10 @@ I would love to hear from you!
 
 ## 🎧 Now Playing on Spotify
 
-[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/tu-usuario)
+[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/vxv40tp4nf6peqih9hh080e7y)
+
+![Visitors](https://komarev.com/ghpvc/?username=jossmarsala&color=6b705c&style=flat)
+
 
 
 - **Email:** [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)  
