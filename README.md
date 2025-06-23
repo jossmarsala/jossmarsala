@@ -44,12 +44,6 @@ These are the tools I enjoy working with:
   <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/butterfly.gif" alt="ícono mariposas" width="35px""/>
   Currently working on </h2>
 
-## 🪴 Currently Working On
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/laptop.gif" width="100px" alt="pixel laptop"/>
-</div>
-
 > 🌼 *growing in small, meaningful steps…*
 
 ---
@@ -62,14 +56,6 @@ These are the tools I enjoy working with:
 | 🐍 May 2024          | Empecé a construir la **API en Python + Firebase**, para manejar usuarios, recursos y planes                                                    |
 | 🧠 Jun 2024 → Now     | Aprendiendo **C y C++** para fortalecer mi base lógica y sistemas low-level                                                                     |
 | ☕ Every day         | Mejorando diseño, accesibilidad y experiencia de usuario                                                                                         |
-
----
-
-### 📊 GitHub Activity Snapshot
-
-<div align="center">
-
-![Joss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jossmarsala&show_icons=true&theme=calm&hide_border=true&border_radius=12)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=calm&hide_border=true&border_radius=12)
 
