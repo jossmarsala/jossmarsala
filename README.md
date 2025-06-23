@@ -56,7 +56,7 @@ At the same time, I’ve been exploring lower-level programming through **C and 
     width="263px"
     alt="Top languages"/>
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=calm&hide_border=true&border_radius=12"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jossmarsala&theme=calm&hide_border=true&border_radius=9"
     width="310px"
     alt="GitHub streak"/>
 </div>
