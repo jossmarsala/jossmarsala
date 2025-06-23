@@ -85,6 +85,11 @@ These are the tools I enjoy working with:
 
 I would love to hear from you!
 
+## 🎧 Now Playing on Spotify
+
+[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/tu-usuario)
+
+
 - **Email:** [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)  
 - **LinkedIn:** [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)  
 - **GitHub:** [@jossmarsala](https://github.com/jossmarsala)
