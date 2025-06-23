@@ -46,10 +46,10 @@ These are the tools I enjoy working with:
 
 Over the last few months, I’ve been pouring my energy into **Vitalia**, a collaborative project that blends tech and wellness. I started with the platform’s visual and functional design, and now I’m developing the backend — building a custom REST API in Python using Firebase.
 
-<div style="display: flex; vertical-align: middle;">
+<div style="display: inline-block; vertical-align: middle;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=solarized-light&hide_border=true&border_radius=9"
-    height="150px"
+    width="250px"
     alt="Top languages"/>
 </div> 
 
