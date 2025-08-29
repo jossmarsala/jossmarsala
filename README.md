@@ -1,15 +1,11 @@
 
 ---
-
-<h1 style="display: flex; align-items: center;">
-  <img
-    src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/hi.gif"
+  <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/hi.gif"
     alt="ícono hi"
     width="45px"
     style="margin-right: 10px;"
   />
-  <marquee behavior="scroll" direction="left"> Hi there! I'm Joss <3 </marquee>
-</h1>
+<marquee behavior="scroll" direction="left"> Hi there! I'm Joss <3 </marquee>
 
 
 ### **Full-stack developer & graphic designer**  
