@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/hi.gif" 
        alt="ícono hi" 
        width="65";" />
-  <p style="width="20px;""> </p>
+  <p style="width="2px;""> </p>
   <img src="https://readme-typing-svg.herokuapp.com?color=%23ff91a4&size=32&vCenter=true&lines=%20Hi!+I'm+Joss+<3;%20Welcome+to+my+GitHub" />
 </p>
 
