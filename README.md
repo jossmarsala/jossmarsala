@@ -6,7 +6,7 @@
     style="margin-right: 10px;"
   />
 
-<marquee>Hi there! I'm Joss <3</marquee>
+![wave](https://capsule-render.vercel.app/api?type=wave&color=FADADD&height=100&section=footer)
 
 
 ### **Full-stack developer & graphic designer**  
