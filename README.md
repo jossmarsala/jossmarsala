@@ -5,7 +5,7 @@
        alt="ícono hi" 
        width="65" 
        style="margin-right: 15px;" />
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23ff91a4&size=32&vCenter=true&lines=Hi!+I'm+Joss;Welcome+to+my+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23ff91a4&size=32&vCenter=true&lines=Hi!+I'm+Joss+<3;Welcome+to+my+GitHub" />
 </p>
 
 
