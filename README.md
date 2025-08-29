@@ -5,9 +5,7 @@
     width="45px"
     style="margin-right: 10px;"
   />
-
-![wave](https://capsule-render.vercel.app/api?type=wave&color=FADADD&height=100&section=footer)
-
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=header&text=Hi%20there!%20I'm%20Joss%20GitHub%20<3&fontSize=30&fontColor=ffffff&animation=twinkling)
 
 ### **Full-stack developer & graphic designer**  
 
