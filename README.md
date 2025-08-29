@@ -1,11 +1,13 @@
 
 ---
+<div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/hi.gif"
     alt="ícono hi"
-    width="45px"
-    style="margin-right: 10px;"
+    width="60"
+    style="margin-right: 15px;"
   />
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffb6c1&lines=Hi!+I'm+Joss+;Welcome+to+my+GitHub)
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23ffb6c1&size=28&lines=Hi!+I'm+Joss+🌷;Welcome+to+my+GitHub+✨" />
+</div>
 
 
 ### **Full-stack developer & graphic designer**  
