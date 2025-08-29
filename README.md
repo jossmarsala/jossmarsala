@@ -8,7 +8,7 @@
     width="45px"
     style="margin-right: 10px;"
   />
-  Hi! I’m Joss <3
+  <marquee behavior="scroll" direction="left"> Hi there! I'm Joss <3 </marquee>
 </h1>
 
 
