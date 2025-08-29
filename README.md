@@ -5,7 +5,8 @@
     width="45px"
     style="margin-right: 10px;"
   />
-<marquee behavior="scroll" direction="left"> Hi there! I'm Joss <3 </marquee>
+
+<marquee>Hi there! I'm Joss <3</marquee>
 
 
 ### **Full-stack developer & graphic designer**  
