@@ -1,13 +1,12 @@
 
 ---
-<div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/hi.gif"
-    alt="ícono hi"
-    width="60"
-    style="margin-right: 15px;"
-  />
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23ffb6c1&size=28&lines=Hi!+I'm+Joss+🌷;Welcome+to+my+GitHub+✨" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jossmarsala/jossmarsala/main/hi.gif" 
+       alt="ícono hi" 
+       width="70" 
+       style="margin-right: 20px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23ff91a4&size=36&center=false&vCenter=true&lines=Hi!+I'm+Joss+🌷;Welcome+to+my+GitHub+✨" />
+</p>
 
 
 ### **Full-stack developer & graphic designer**  
