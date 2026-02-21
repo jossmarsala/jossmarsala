@@ -93,10 +93,9 @@ A full-stack web application designed to deliver personalized wellness recommend
 
 Website and digital presence for my own web development & design studio.
 
-<br><br>
 
 <strong style="color:#B57EDC;">Goal:</strong> Build a cohesive identity that blends storytelling, aesthetics, and technical clarity.  
-
+<br><br>
    </td>
   </tr>
 </table>
