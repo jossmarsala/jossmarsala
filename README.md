@@ -75,8 +75,8 @@ A full-stack web application designed to deliver personalized wellness recommend
 <strong style="color:#B57EDC;">Solution:</strong> Implemented authentication flows, built a recommendation API (<code>vitalia-core</code>), and designed the complete UI/UX experience.  
 <strong style="color:#B57EDC;">Impact:</strong> A scalable structure connecting user profiles, scoring logic, and dynamic recommendations.
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 🌿 <span style="color:#8A2BE2;">POSDATA STUDIO</span> <span style="color:#B57EDC;">(in progress)</span>
 
@@ -85,7 +85,7 @@ Website and digital presence for my own web development & design studio.
 <strong style="color:#B57EDC;">Goal:</strong> Build a cohesive identity that blends storytelling, aesthetics, and technical clarity.  
 <strong style="color:#B57EDC;">Focus:</strong> Branding, responsive design, and full deployment strategy.
 
-    </td>
+   </td>
   </tr>
 </table>>
 
