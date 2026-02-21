@@ -5,7 +5,6 @@
     <td>
 
 # 🌙 Hi! I’m Joss — Full-stack dev and designer
-<br>
 
 Building web applications.  
 Software development student blending full-stack engineering with visual design — currently exploring machine learning and cybersecurity (✿◠‿◠).
