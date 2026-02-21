@@ -71,7 +71,6 @@
 
 A full-stack web application designed to deliver personalized wellness recommendations.
 
-<strong style="color:#B57EDC;">Problem:</strong> Users needed tailored suggestions based on their preferences.  
 <strong style="color:#B57EDC;">Solution:</strong> Implemented authentication flows, built a recommendation API (<code>vitalia-core</code>), and designed the complete UI/UX experience.  
 <strong style="color:#B57EDC;">Impact:</strong> A scalable structure connecting user profiles, scoring logic, and dynamic recommendations.
 
