@@ -87,7 +87,7 @@ Website and digital presence for my own web development & design studio.
 
    </td>
   </tr>
-</table>>
+</table>
 
 ---
 
