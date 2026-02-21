@@ -61,12 +61,13 @@
 
 ---
 
-## ✧ Featured Projects
-<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+## 🔮 Featured Projects
 
-<div style="flex: 1; min-width: 280px;">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<h3 style="color:#8A2BE2;">🕯️ <a href="https://vitalia-selfcare.vercel.app" style="color:#8A2BE2; text-decoration:none;">VITALIA: Your Wellness Company</a></h3>
+### 🕯️ <span style="color:#8A2BE2;">[VITALIA: Your Wellness Company](https://vitalia-selfcare.vercel.app)</span>
 
 A full-stack web application designed to deliver personalized wellness recommendations.
 
@@ -74,20 +75,19 @@ A full-stack web application designed to deliver personalized wellness recommend
 <strong style="color:#B57EDC;">Solution:</strong> Implemented authentication flows, built a recommendation API (<code>vitalia-core</code>), and designed the complete UI/UX experience.  
 <strong style="color:#B57EDC;">Impact:</strong> A scalable structure connecting user profiles, scoring logic, and dynamic recommendations.
 
-</div>
+    </td>
+    <td width="50%" valign="top">
 
-<div style="flex: 1; min-width: 280px;">
-
-<h3 style="color:#8A2BE2;">🌿 POSDATA STUDIO <span style="font-weight:normal;">(in progress)</span></h3>
+### 🌿 <span style="color:#8A2BE2;">POSDATA STUDIO</span> <span style="color:#B57EDC;">(in progress)</span>
 
 Website and digital presence for my own web development & design studio.
 
 <strong style="color:#B57EDC;">Goal:</strong> Build a cohesive identity that blends storytelling, aesthetics, and technical clarity.  
 <strong style="color:#B57EDC;">Focus:</strong> Branding, responsive design, and full deployment strategy.
 
-</div>
-
-</div>
+    </td>
+  </tr>
+</table>>
 
 ---
 
