@@ -33,8 +33,8 @@
 ![InDesign](https://img.shields.io/badge/InDesign-4A1F4F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-2B0A3D?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
-    </td>
-    <td width="50%" valign="top" align="center">
+   </td>
+   <td width="50%" valign="top" align="center">
 
 ### 🌿 Frontend
 
@@ -45,7 +45,7 @@
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-1F1B24?style=for-the-badge)
 ![Accessibility](https://img.shields.io/badge/Accessibility-2B1B38?style=for-the-badge)
 
-    </td>
+   </td>
   </tr>
 
   <tr>
@@ -59,8 +59,8 @@
 ![SQL](https://img.shields.io/badge/SQL-3F2A63?style=for-the-badge&logo=postgresql&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-2E1A12?style=for-the-badge)
 
-    </td>
-    <td width="50%" valign="top" align="center">
+   </td>
+   <td width="50%" valign="top" align="center">
 
 ### 🧷 Tools & Workflow
 
@@ -68,7 +68,7 @@
 ![Notion](https://img.shields.io/badge/Notion-1F1B24?style=for-the-badge&logo=notion&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-2B1B38?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-    </td>
+  </td>
   </tr>
 </table>
 
