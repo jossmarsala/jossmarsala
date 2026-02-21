@@ -18,6 +18,8 @@
   </tr>
 </table>
 
+<br><br>
+
 ---
 
 ## ✦ Tech Stack
@@ -72,6 +74,7 @@
   </tr>
 </table>
 
+<br><br>
 ---
 
 ## 🔮 Featured Projects
@@ -100,6 +103,7 @@ Website and digital presence for my own web development & design studio.
   </tr>
 </table>
 
+<br><br>
 ---
 
 ## ☾ Let’s Connect
