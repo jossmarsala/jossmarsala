@@ -8,7 +8,7 @@
 
 ### Software development student blending full-stack engineering with visual design — currently exploring machine learning and cybersecurity (✿◠‿◠).
 
-#### I design. I build. I care about the invisible architecture behind things.
+<i>I design. I build. I care about the invisible architecture behind things.</i>
 <br>
 
   </td>
