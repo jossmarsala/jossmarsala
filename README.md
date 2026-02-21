@@ -22,13 +22,19 @@
 
 ## ✦ Tech Stack
 
-### 🕯️ Design  
+<p align="center">
+
+🕯️ **Design**  
+<br>
 ![Illustrator](https://img.shields.io/badge/Illustrator-2E1A12?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-3B2A5A?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-4A1F4F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-2B0A3D?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
-### 🌿 Frontend  
+<br><br>
+
+🌿 **Frontend**  
+<br>
 ![HTML](https://img.shields.io/badge/HTML-3A1E0E?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-4B2A6B?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E1A12?style=for-the-badge&logo=javascript&logoColor=white)
@@ -36,17 +42,25 @@
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-1F1B24?style=for-the-badge)
 ![Accessibility](https://img.shields.io/badge/Accessibility-2B1B38?style=for-the-badge)
 
-### 🔮 Backend  
+<br><br>
+
+🔮 **Backend**  
+<br>
 ![Python](https://img.shields.io/badge/Python-3A1E0E?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-1F1B24?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-2B0A3D?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3F2A63?style=for-the-badge&logo=postgresql&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-2E1A12?style=for-the-badge)
 
-### 🧷 Tools & Workflow  
+<br><br>
+
+🧷 **Tools & Workflow**  
+<br>
 ![Git](https://img.shields.io/badge/Git-3A1E0E?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-1F1B24?style=for-the-badge&logo=notion&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-2B1B38?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</p>
 
 ---
 
@@ -68,14 +82,6 @@ Website and digital presence for my own web development & design studio.
 
 **Goal:** Build a cohesive identity that blends storytelling, aesthetics, and technical clarity.  
 **Focus:** Branding, responsive design, and full deployment strategy.
-
----
-
-## ✧ Digital Footprint
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jossmarsala&theme=midnight-purple&hide_border=true"/>
-</p>
 
 ---
 
