@@ -63,7 +63,7 @@
 
 ## ✧ Featured Projects
 
-### 🕯️ [VITALIA: Your Wellness Company](https://vitalia-selfcare.vercel.app)****
+### 🕯️ [VITALIA: Your Wellness Company](https://vitalia-selfcare.vercel.app)
 
 A full-stack web application designed to deliver personalized wellness recommendations.
 
