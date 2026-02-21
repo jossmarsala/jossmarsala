@@ -82,11 +82,18 @@ Website and digital presence for my own web development & design studio.
 
 ## ☾ Let’s Connect
 
-<p align="center">
-  <img src="cat.gif" width="160px"/>
-</p>
+<table>
+  <tr>
+    <td>
 
 If you're building something meaningful, I’d love to be part of it.
 
 - **Email**: [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)  
 - **LinkedIn**: [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)
+
+    </td>
+    <td align="right">
+      <img src="cat.gif" width="160px"/>
+    </td>
+  </tr>
+</table>
