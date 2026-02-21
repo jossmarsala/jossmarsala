@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-<br><br>
+<br>
 
 ---
 
@@ -74,7 +74,8 @@
   </tr>
 </table>
 
-<br><br>
+<br>
+
 ---
 
 ## 🔮 Featured Projects
@@ -103,7 +104,8 @@ Website and digital presence for my own web development & design studio.
   </tr>
 </table>
 
-<br><br>
+<br>
+
 ---
 
 ## ☾ Let’s Connect
