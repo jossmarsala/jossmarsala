@@ -13,7 +13,7 @@
 
   </td>
   <td>
-    <img src="witch.gif" width="220px"/>
+    <img src="witch.gif" width="300px"/>
   </td>
   </tr>
 </table>
