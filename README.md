@@ -6,8 +6,8 @@
 
 # 🌙 I’m Jo — Full-stack dev and designer
 
-Building thoughtful digital experiences where logic meets design.  
-Software development student blending full-stack engineering with visual sensitivity — currently exploring machine learning and cybersecurity (✿◠‿◠).
+Building web applications.  
+Software development student blending full-stack engineering with visual design — currently exploring machine learning and cybersecurity (✿◠‿◠).
 
 I design. I build. I care about the invisible architecture behind things.
 
@@ -52,15 +52,13 @@ I design. I build. I care about the invisible architecture behind things.
 
 ## ✧ Featured Projects
 
-### 🕯️ VITALIA  
+### 🕯️ VITALIA: Your wellness company 
 
-A full-stack web application designed to deliver personalized resource recommendations.
+A full-stack web application designed to deliver personalized wellness recommendations.
 
 **Problem:** Users needed tailored suggestions based on their preferences.  
 **Solution:** Implemented authentication flows, built a recommendation API (`vitalia-core`), and designed the complete UI/UX experience.  
 **Impact:** A scalable structure connecting user profiles, scoring logic, and dynamic recommendations.
-
-Architecture and design fully crafted by me.
 
 ---
 
@@ -71,16 +69,9 @@ Website and digital presence for my own web development & design studio.
 **Goal:** Build a cohesive identity that blends storytelling, aesthetics, and technical clarity.  
 **Focus:** Branding, responsive design, and full deployment strategy.
 
-This project represents my transition from developer to digital product thinker.
-
 ---
 
 ## ✧ Digital Footprint
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jossmarsala&show_icons=true&theme=midnight-purple&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=midnight-purple&hide_border=true" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jossmarsala&theme=midnight-purple&hide_border=true"/>
