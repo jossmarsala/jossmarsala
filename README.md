@@ -4,12 +4,13 @@
   <tr>
     <td>
 
-# 🌙 I’m Jo — Full-stack dev and designer
+# 🌙 Hi! I’m Joss — Full-stack dev and designer
 
 Building web applications.  
 Software development student blending full-stack engineering with visual design — currently exploring machine learning and cybersecurity (✿◠‿◠).
 
 I design. I build. I care about the invisible architecture behind things.
+<br>
 
   </td>
   <td>
