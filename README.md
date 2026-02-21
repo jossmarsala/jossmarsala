@@ -1,80 +1,100 @@
-<p align="center">
-  <img src="assets/witch.png" width="120px" />
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23e6a4c9&size=28&vCenter=true&lines=Hi,+I'm+Joss+✧;Full-stack+dev+%26+designer;Crafting+digital+spells+since+2023" />
-  <img src="assets/black-cat.png" width="90px" />
-</p>
+<!-- HERO SECTION -->
 
-<h2 align="center">🕯️ Digital Craftswoman — Code, Design & Curious Experiments</h2>
+<table>
+  <tr>
+    <td>
 
----
+# 🌙 I’m Jo — Full-Stack Developer with an Aesthetic Eye
 
-### 🌙 About me
+Building thoughtful digital experiences where logic meets design.  
+Software development student blending full-stack engineering with visual sensitivity — currently exploring machine learning and cybersecurity (✿◠‿◠).
 
-I'm a **software development student** and **graphic designer** who believes technology is just another form of magic — structured, logical, powerful.
+I design. I build. I care about the invisible architecture behind things.
 
-I love building things where **aesthetic meets functionality**.  
-From crafting interfaces to designing backend logic, I enjoy understanding how systems work beneath the surface.
-
-Currently exploring:
-- 🧠 Machine Learning  
-- 🔐 Cybersecurity  
-- 🌐 Full-stack Web Development  
-
-I’m especially drawn to projects that mix **creativity + engineering**.
+  </td>
+  <td>
+    <img src="witch.gif" width="220px"/>
+  </td>
+  </tr>
+</table>
 
 ---
 
-## ✧ Tech I work with
+## ✦ Tech Stack
+
+### 🕯️ Design  
+![Illustrator](https://img.shields.io/badge/Illustrator-2E1A12?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-3B2A5A?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-4A1F4F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-2B0A3D?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+
+### 🌿 Frontend  
+![HTML](https://img.shields.io/badge/HTML-3A1E0E?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-4B2A6B?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E1A12?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-3F2A63?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-1F1B24?style=for-the-badge)
+![Accessibility](https://img.shields.io/badge/Accessibility-2B1B38?style=for-the-badge)
+
+### 🔮 Backend  
+![Python](https://img.shields.io/badge/Python-3A1E0E?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1F1B24?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2B0A3D?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3F2A63?style=for-the-badge&logo=postgresql&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-2E1A12?style=for-the-badge)
+
+### 🧷 Tools & Workflow  
+![Git](https://img.shields.io/badge/Git-3A1E0E?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-1F1B24?style=for-the-badge&logo=notion&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-2B1B38?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## ✧ Featured Projects
+
+### 🕯️ VITALIA  
+
+A full-stack web application designed to deliver personalized resource recommendations.
+
+**Problem:** Users needed tailored suggestions based on their preferences.  
+**Solution:** Implemented authentication flows, built a recommendation API (`vitalia-core`), and designed the complete UI/UX experience.  
+**Impact:** A scalable structure connecting user profiles, scoring logic, and dynamic recommendations.
+
+Architecture and design fully crafted by me.
+
+---
+
+### 🌿 POSDATA STUDIO *(in progress)*  
+
+Website and digital presence for my own web development & design studio.
+
+**Goal:** Build a cohesive identity that blends storytelling, aesthetics, and technical clarity.  
+**Focus:** Branding, responsive design, and full deployment strategy.
+
+This project represents my transition from developer to digital product thinker.
+
+---
+
+## ✧ Digital Footprint
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jossmarsala&show_icons=true&theme=midnight-purple&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=midnight-purple&hide_border=true" height="165"/>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-e8a598?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-b5838d?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-e5989b?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-6d6875?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-a98467?logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ddbea9?logo=firebase&logoColor=black)
-
-![VS Code](https://img.shields.io/badge/VS_Code-7f5539?logo=visualstudiocode&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-b08968?logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-588157?logo=adobephotoshop&logoColor=white)
-![InDesign](https://img.shields.io/badge/InDesign-344e41?logo=adobeindesign&logoColor=white)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jossmarsala&theme=midnight-purple&hide_border=true"/>
 </p>
 
 ---
 
-## 🔮 Current focus
+## ☾ Let’s Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jossmarsala&show_icons=true&theme=rose_pine&hide_border=true&border_radius=12" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossmarsala&layout=compact&theme=rose_pine&hide_border=true&border_radius=12" height="160px"/>
+  <img src="cat.gif" width="160px"/>
 </p>
 
-Lately I've been building **Vitalia** — a project where I started designing the visual system and now I’m developing the backend with a custom REST API in Python + Firebase.
+If you're building something meaningful, I’d love to be part of it.
 
-At the same time, I'm diving into **C / C++ fundamentals** and strengthening my cybersecurity foundations.
-
-Curiosity is the engine. Consistency is the spell. 🪄
-
----
-
-## 🖤 Let’s connect
-
-<p align="center">
-  <img src="assets/black-cat.png" width="100px"/>
-</p>
-
-If you're building something meaningful — techy, artsy or both — I’d love to collaborate.
-
-- 🎨 Portfolio: https://www.behance.net/gallery/226352029/Joss-Graphic-Design-Portfolio  
-- 💌 Email: marsalahjosefina@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/josmarsala/
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jossmarsala&color=e5989b&style=flat" />
-  <br/>
-  <sub>crafted with coffee, curiosity & a little bit of magic ☕✨</sub>
-</p>
+- **Email**: [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)  
+- **LinkedIn**: [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)
