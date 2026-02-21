@@ -84,6 +84,9 @@ Website and digital presence for my own web development & design studio.
 
 <table>
   <tr>
+    <td align="left">
+      <img src="cat.gif" width="160px"/>
+    </td>
     <td>
 
 If you're building something meaningful, I’d love to be part of it.
@@ -91,9 +94,6 @@ If you're building something meaningful, I’d love to be part of it.
 - **Email**: [marsalahjosefina@gmail.com](mailto:marsalahjosefina@gmail.com)  
 - **LinkedIn**: [Josefina Marsala](https://www.linkedin.com/in/josmarsala/)
 
-    </td>
-    <td align="right">
-      <img src="cat.gif" width="160px"/>
     </td>
   </tr>
 </table>
