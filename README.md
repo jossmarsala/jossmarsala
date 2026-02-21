@@ -4,7 +4,7 @@
   <tr>
     <td>
 
-# 🌙 I’m Jo — Full-Stack Developer with an Aesthetic Eye
+# 🌙 I’m Jo — Full-stack dev and designer
 
 Building thoughtful digital experiences where logic meets design.  
 Software development student blending full-stack engineering with visual sensitivity — currently exploring machine learning and cybersecurity (✿◠‿◠).
