@@ -4,7 +4,7 @@
   <tr>
     <td>
 
-# 🌙 Hi! I’m Joss — Full-stack dev and designer
+# 🌙 Hi! I’m Joss — Full-stack web dev and designer
 
 ### Software development student blending full-stack engineering with visual design — currently exploring machine learning and cybersecurity (✿◠‿◠).
 
