@@ -4,7 +4,7 @@
 
 <img src="witch.gif" width="300px"/>
 
-### Software development student blending full-stack engineering with visual design — currently exploring machine learning and cybersecurity (✿◠‿◠).
+### Software development student blending engineering with design — currently exploring machine learning and cybersecurity (✿◠‿◠).
 
 <i>I design. I build. I care about the invisible architecture behind things.</i>
 <br>
