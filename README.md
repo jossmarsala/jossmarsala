@@ -2,12 +2,12 @@
 
 # 🌙 Hi! I’m Joss — Full-stack web dev and designer
 
+<img src="witch.gif" width="300px"/>
+
 ### Software development student blending full-stack engineering with visual design — currently exploring machine learning and cybersecurity (✿◠‿◠).
 
 <i>I design. I build. I care about the invisible architecture behind things.</i>
 <br>
-
-<img src="witch.gif" width="300px"/>
 
 <br>
 
