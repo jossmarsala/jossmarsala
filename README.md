@@ -1,9 +1,5 @@
 <!-- HERO SECTION -->
 
-<table>
-  <tr>
-    <td>
-
 # 🌙 Hi! I’m Joss — Full-stack web dev and designer
 
 ### Software development student blending full-stack engineering with visual design — currently exploring machine learning and cybersecurity (✿◠‿◠).
@@ -11,12 +7,7 @@
 <i>I design. I build. I care about the invisible architecture behind things.</i>
 <br>
 
-  </td>
-  <td>
-    <img src="witch.gif" width="300px"/>
-  </td>
-  </tr>
-</table>
+<img src="witch.gif" width="300px"/>
 
 <br>
 
